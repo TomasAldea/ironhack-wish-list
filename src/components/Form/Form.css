@@ -1,0 +1,6 @@
+.form {
+    min-width: 100%;
+    min-height: 100px;
+    background-color: tomato;
+    margin: 20px auto;
+}
